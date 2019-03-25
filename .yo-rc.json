@@ -1,0 +1,16 @@
+{
+  "generator-react-firebase": {
+    "promptValues": {
+      "githubUser": "lzzparis",
+      "firebaseName": "portfolio-lzz",
+      "firebaseKey": "AIzaSyCPSg0ssXs4qDOh2tAZoAv7Yx0WS19_Mxo",
+      "includeRedux": true,
+      "includeFirestore": false,
+      "otherFeatures": [
+        "Firebase Functions (with ESNext support)",
+        "Tests for Firebase Functions (Mocha + Chai)"
+      ],
+      "deployTo": "firebase"
+    }
+  }
+}
